@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+section{
+    @apply bg-stone-800;
+    @apply mx-auto;
+    @apply w-[80%];
+    @apply my-32;
+    @apply mt-40;
+    @apply rounded-lg;
+    @apply py-14
+}
