@@ -10,7 +10,7 @@ function App() {
     <div className="relative flex">
       {/* Background Image */}
       <div className="absolute top-0 left-0 right-0 bg-red-400 flex z-[-1]">
-        <img src="/src/assets/coffeefront.jpg " className="object-cover h-80 w-full " />
+        <img src="coffeefront.jpg" className="object-cover h-80 w-full " />
       </div>
 
       <section className="px-10 md:px-16 lg:px-20">
